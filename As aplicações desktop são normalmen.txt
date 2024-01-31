@@ -1,0 +1,16 @@
+As aplicações desktop são normalmente usadas para tarefas que exigem mais poder de processamento, segurança, estabilidade ou personalização do que as aplicações web. Alguns exemplos de aplicações desktop são:
+
+Aplicações de escritório, como processadores de texto, planilhas, editores de texto, etc. Essas aplicações permitem criar, editar e gerenciar documentos, dados e arquivos de forma rápida e eficiente .
+
+Sistemas de negócios, como sistemas de gestão, contabilidade, estoque, vendas, etc. Essas aplicações facilitam o controle e a organização das operações e dos recursos de uma empresa .
+
+Utilitários de administração dos dados do computador, como antivírus, backup, limpeza, otimização, etc. Essas aplicações ajudam a proteger, recuperar, limpar e melhorar o desempenho do computador .
+
+Jogos, como simuladores, aventuras, estratégia, ação, etc. Esses aplicativos proporcionam entretenimento, diversão e desafio aos usuários, explorando gráficos, sons, interatividade e inteligência artificial .
+
+Softwares educativos, como cursos, tutoriais, exercícios, etc. Esses aplicativos auxiliam no aprendizado, no ensino e na avaliação de conteúdos educacionais .
+
+Aplicações específicas, como editores de vídeo, de imagem, de áudio, etc. Essas aplicações atendem a necessidades particulares de usuários que trabalham com mídias, artes, design, etc ...
+
+*Fontes* : https://wktechnology.com.br/aplicacoes-desktop-o-que-sao-e-como-funcionam/
+https://pt.stackoverflow.com/questions/187344/quais-são-as-diferenças-entre-uma-aplicação-web-e-a-aplicação-desktop
