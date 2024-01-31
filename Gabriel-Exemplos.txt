@@ -1,0 +1,17 @@
+Exemplos de linguagens de programação desktop: 
+
+1- Python: Python é uma linguagem de programação de alto nível, interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte. Foi lançada por Guido van Rossum em 1991. Atualmente, possui um modelo de desenvolvimento comunitário, aberto e gerenciado pela organização sem fins lucrativos Python Software Foundation. Apesar de várias partes da linguagem possuírem padrões e especificações formais, a linguagem, como um todo, não é formalmente especificada. O padrão na pratica é a implementação CPython.
+
+2- Java: Java é uma linguagem de programação amplamente usada para codificar aplicações Web. Ela tem sido uma escolha popular entre os desenvolvedores há mais de duas décadas, com milhões de aplicações Java em uso hoje. Java é uma linguagem multiplataforma, orientada a objetos e centrada em rede que pode ser usada como uma plataforma em si. É uma linguagem de programação rápida, segura e confiável para codificar tudo, desde aplicações móveis e software empresarial até aplicações de big data e tecnologias do servidor.  
+
+3- C#: O C# é uma linguagem de programação multiparadigma criada pela Microsoft, sendo a principal da plataforma .NET. Por ser uma linguagem que suporta, entre outros paradigmas, a orientação à objetos, ela suporta conceitos comuns como encapsulamento, herança e polimorfismo. Trata-se também de uma linguagem fortemente tipada e case-sensitive, ou seja, faz diferenciação entre letras minúsculas e maiúsculas.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Fontes: 
+
+https://pt.wikipedia.org/wiki/Python
+
+https://aws.amazon.com/pt/what-is/java/#:~:text=Java%20%C3%A9%20uma%20linguagem%20multiplataforma,data%20e%20tecnologias%20do%20servidor.
+
+https://www.treinaweb.com.br/blog/o-que-e-e-como-comecar-com-c-sharp
+
+
