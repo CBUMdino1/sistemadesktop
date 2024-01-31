@@ -1,0 +1,3 @@
+Em busca de uma melhora no deisgn de software, o paradigma de programação POO foi criado com o intuito de tornar tais designs mais modulares, fáceis de manter e escaláveis.
+Ela tem sua origem no entre o final dos anos 60 e começo do 70, porém foi realmente introduzido no final dos anos 80.
+Pensado principalmente por Alan Kay (com a ajuda de Bertrand Meyer e Grady Booch)
