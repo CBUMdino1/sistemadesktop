@@ -1,0 +1,21 @@
+Programação orientada a objetos (POO, ou OOP segundo as suas siglas em inglês) é um paradigma de programação baseado no conceito de "objetos", que podem conter dados na forma de campos, também conhecidos como atributos, e códigos, na forma de procedimentos, também conhecidos como métodos.
+
+Dentro do POO, é encontrado 4 pilares deste paradigma. 
+* Herança;
+* Polimorfismo;
+* Encapsulamento;
+* Abstração.
+
+Exemplos de POO:
+Java, C++, C#, Python, PHP e Ruby.
+
+IMG de Exemplos:
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png
+https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png
+https://blog.geekhunter.com.br/wp-content/uploads/2020/07/pngwing.com_.png
+
+
+fonte:
+https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_orientada_a_objetos
+https://coodesh.com/blog/dicionario/o-que-e-poo-em-programacao/
