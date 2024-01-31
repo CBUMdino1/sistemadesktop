@@ -1,0 +1,23 @@
+08 - Pratos: O que é
+
+07 - Rolan: Estrutura de classe
+
+01 - Julius: Encapsulamento
+
+09 - IsaMuitasDrogas: Herança
+
+04 - Marcos: Polimorfismo
+
+11 - Leandrinha: Destacar casos de uso específico
+
+05 - Migay: Como foi criado
+
+06 - Átilo: Pioneiros do POO
+
+02 - Gabreilão: Exemplos de linguagem
+
+10 - Clariçe: Onde se aplica (Aplicação desktop)
+
+03 - Duarte: Quais os melhores cenários em comparação à programa desktop e aplicação web (baiscamente vantagens e desvantagens)
+
+12 - Augusto: Outros princípios fundamentais da POO
