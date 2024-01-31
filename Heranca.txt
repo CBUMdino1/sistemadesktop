@@ -1,0 +1,1 @@
+Herança é um dos pontos chave de programação orientada a objetos (POO). A ideia de herança é facilitar a programação. Uma classe A deve herdar de uma classe B quando podemos dizer que A é um B. Por exemplo, imagine que já exista uma classe que defina o comportamento de um dado objeto da vida real, por exemplo, animal.
