@@ -1,0 +1,1 @@
+Uma estrutura de classe é um modelo ou template para criar objetos. Ela define os atributos (características) e métodos (comportamentos) que os objetos daquela classe terão. As classes são utilizadas para organizar e estruturar o código de forma a representar entidades do mundo real de maneira modular e reutilizável.
