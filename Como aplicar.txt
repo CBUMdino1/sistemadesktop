@@ -1,1 +1,9 @@
-As aplicações de desktop são muito poderosas porque oferecem mais controle e estabilidade do que as aplicações baseadas na web e até mesmo mobiles. Elas normalmente fornecem recursos semelhantes aos da área de trabalho, tais como simples anexar texto a um arquivo, abrir uma nova janela, usar esquemas de cores diferentes para UI, etc. Embora estas coisas possam não significar muito quando você estiver escrevendo um documento simples no WordPad ou Notepad++ , as aplicações desktop serão sempre preferidas para gerar relatórios,planilhas,listagem de produtos no Microsoft Excel ou realizar análises de dados em Matlab .Em alguns exemploes de situação que se pode usar as aplicações desktop,por exemplo podemos aplicar em um sistema de gerenciamento de estoque, em um sistema de biblioteca online para armazenamento e arquivamento online, em um sistemas de compras.
+Para a aplicação desktop, podemos pensar em uma aplicação que é instalada e, em sua maioria, roda no computador desktop ou laptop. Deve-se notar que as aplicações desktop também podem ser executadas em dispositivos portáteis como telefones, tablets e outros dispositivos móveis que suportam a estrutura .NET, porém isto está fora do escopo deste artigo.
+As aplicações de desktop são muito poderosas porque oferecem mais controle e estabilidade do que as aplicações baseadas na web e até mesmo mobiles.Ela pode ser usada em diversas situaçãoes,como:
+-Sistemas de gestão de estoque.
+-Ferramentas de contabilidade e finanças.
+-Sistemas de gerenciamento de recursos humanos (RH).
+Onde se pode usar o Microsoft Excel  ou usar ferramentas de análise de dado  em Matlab.
+Essas são as várias formas e situções onde se pode realizar a aplicação do desktop
+
+link:https://wktechnology.com.br/aplicacoes-desktop-o-que-sao-e-como-funcionam/#:~:text=Para%20a%20aplica%C3%A7%C3%A3o%20desktop%2C%20podemos,m%C3%B3veis%20que%20suportam%20a%20estrutura%20.
